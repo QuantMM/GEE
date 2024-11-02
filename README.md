@@ -7,7 +7,6 @@ Authors
 -------
 
 - **Sunmee Kim** - <sunmee.kim@mail.mcgill.ca>
-- **Ramsey Cardwell** - <rlcardwe@uncg.edu>
 
 About GEE of ERA
 ----------
